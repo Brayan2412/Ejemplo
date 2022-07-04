@@ -1,3 +1,2 @@
 # Ejemplo
-Mi primer repositorio Gi
- Autor: Ing.Briant Maldonado Macias 
+Mi primer repositorio Git
